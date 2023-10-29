@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "6538004d23866b2b55260ac4"
+  },
+  "producto": [
+    {
+      "codigo": 1,
+      "nombre": "Galletas",
+      "precio": 1.25
+    },
+    {
+      "codigo": 2,
+      "nombre": "Oreo",
+      "precio": 2.3
+    },
+    {
+      "codigo": 3,
+      "nombre": "Pan",
+      "precio": 0.89
+    },
+    {
+      "codigo": 4,
+      "nombre": "Leche",
+      "precio": 1.09
+    }
+  ]
+}]

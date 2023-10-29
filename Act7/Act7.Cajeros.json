@@ -1,0 +1,23 @@
+[{
+  "_id": {
+    "$oid": "6538004d23866b2b55260ac5"
+  },
+  "cajero": [
+    {
+      "codigo": 1,
+      "nomapels": "Dani Nuñez Romero"
+    },
+    {
+      "codigo": 2,
+      "nomapels": "Manolo Garcia Pono"
+    },
+    {
+      "codigo": 3,
+      "nomapels": "Jesus Sanchez Timillo"
+    },
+    {
+      "codigo": 4,
+      "nomapels": "Aitor Tilla Marga"
+    }
+  ]
+}]
