@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "6537c48323866b2b55260a88"
+  },
+  "codigo": 1,
+  "nombre": "Lapiz",
+  "precio": 0.8,
+  "fabricante": {
+    "codigo": 1,
+    "nombre": "Dani"
+  }
+},
+{
+  "_id": {
+    "$oid": "6537c71523866b2b55260a8a"
+  },
+  "codigo": 2,
+  "nombre": "Papel",
+  "precio": 1.2,
+  "fabricante": {
+    "codigo": 2,
+    "nombre": "Antonio"
+  }
+},
+{
+  "_id": {
+    "$oid": "6537c74023866b2b55260a8c"
+  },
+  "codigo": 3,
+  "nombre": "Libreta",
+  "precio": 1,
+  "fabricante": {
+    "codigo": 3,
+    "nombre": "Laura"
+  }
+}]
