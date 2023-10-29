@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "6537ded923866b2b55260aa0"
+  },
+  "dni": "58695476C",
+  "nom_apels": "Dani Nuñez",
+  "dni_jefe": "55540368C",
+  "despacho": 1
+},
+{
+  "_id": {
+    "$oid": "6537ded923866b2b55260aa2"
+  },
+  "dni": "56823040J",
+  "nom_apels": "Antonio Lopez",
+  "dni_jefe": "99970541N",
+  "despacho": 1
+},
+{
+  "_id": {
+    "$oid": "6537ded923866b2b55260aa4"
+  },
+  "dni": "63300147Q",
+  "nom_apels": "Veronica Nieto",
+  "dni_jefe": "01170447F",
+  "despacho": 2
+}]
