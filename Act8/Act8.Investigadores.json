@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "653839c423866b2b55260ad5"
+  },
+  "dni": "45869002K",
+  "nomapels": "Dani Nuñez Romero",
+  "Facultad": {
+    "codigo": 1,
+    "nombre": "Medicina"
+  }
+},
+{
+  "_id": {
+    "$oid": "653839c423866b2b55260ad6"
+  },
+  "dni": "88560148Y",
+  "nomapels": "Manolo Del Bombo",
+  "Facultad": {
+    "codigo": 3,
+    "nombre": "Derecho"
+  }
+}]

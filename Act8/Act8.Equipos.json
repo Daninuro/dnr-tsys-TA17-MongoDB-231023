@@ -1,0 +1,33 @@
+[{
+  "_id": {
+    "$oid": "653839c423866b2b55260ad7"
+  },
+  "num_serie": "D104",
+  "nombre": "Equipo 1",
+  "Facultad": {
+    "codigo": 1,
+    "nombre": "Medicina"
+  }
+},
+{
+  "_id": {
+    "$oid": "653839c423866b2b55260ad8"
+  },
+  "num_serie": "D105",
+  "nombre": "Equipo 2",
+  "Facultad": {
+    "codigo": 1,
+    "nombre": "Medicina"
+  }
+},
+{
+  "_id": {
+    "$oid": "653839c423866b2b55260ad9"
+  },
+  "num_serie": "D106",
+  "nombre": "Equipo 3",
+  "Facultad": {
+    "codigo": 1,
+    "nombre": "Medicina"
+  }
+}]

@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "653839c423866b2b55260ad2"
+  },
+  "codigo": 1,
+  "nombre": "Medicina"
+},
+{
+  "_id": {
+    "$oid": "653839c423866b2b55260ad3"
+  },
+  "codigo": 2,
+  "nombre": "Finanzas"
+},
+{
+  "_id": {
+    "$oid": "653839c423866b2b55260ad4"
+  },
+  "codigo": 3,
+  "nombre": "Derecho"
+}]
