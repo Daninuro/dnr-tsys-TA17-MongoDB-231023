@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "653843f123866b2b55260adb"
+  },
+  "id": "R32G",
+  "nombre": "Proyecto1",
+  "horas": 120
+},
+{
+  "_id": {
+    "$oid": "653843f123866b2b55260adc"
+  },
+  "id": "R30G",
+  "nombre": "Proyecto2",
+  "horas": 130
+},
+{
+  "_id": {
+    "$oid": "653843f123866b2b55260add"
+  },
+  "id": "P63P",
+  "nombre": "Proyecto1",
+  "horas": 410
+}]

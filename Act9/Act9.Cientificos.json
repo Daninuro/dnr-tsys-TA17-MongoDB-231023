@@ -1,0 +1,19 @@
+[{
+  "_id": {
+    "$oid": "653843f123866b2b55260ada"
+  },
+  "cientifico": [
+    {
+      "dni": "859004126K",
+      "nomapels": "Dani Nuñez Romero"
+    },
+    {
+      "dni": "856995006R",
+      "nomapels": "Jose Luis Moron"
+    },
+    {
+      "dni": "13487564L",
+      "nomapels": "Jose Blanco Perez"
+    }
+  ]
+}]
