@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "6537d7b423866b2b55260a9a"
+  },
+  "codigo": 1,
+  "nombre": "Sala 1",
+  "pelicula": {
+    "codigo": 1,
+    "nombre": "Harry Potter",
+    "calificacion_edad": 16
+  }
+},
+{
+  "_id": {
+    "$oid": "6537d7b423866b2b55260a9c"
+  },
+  "codigo": 2,
+  "nombre": "Sala 2",
+  "pelicula": {
+    "codigo": 2,
+    "nombre": "Mision Imposible",
+    "calificacion_edad": 18
+  }
+},
+{
+  "_id": {
+    "$oid": "6537d7b423866b2b55260a9e"
+  },
+  "codigo": 3,
+  "nombre": "Sala 3",
+  "pelicula": {
+    "codigo": 3,
+    "nombre": "Elemental",
+    "calificacion_edad": 7
+  }
+}]
