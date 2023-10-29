@@ -1,0 +1,48 @@
+[{
+  "_id": {
+    "$oid": "6537f6af23866b2b55260aba"
+  },
+  "codigo": 1,
+  "nombre": "Clavo",
+  "precio": 1.3
+},
+{
+  "_id": {
+    "$oid": "6537f6af23866b2b55260abb"
+  },
+  "codigo": 2,
+  "nombre": "Tornillo",
+  "precio": 1.45
+},
+{
+  "_id": {
+    "$oid": "6537f70d23866b2b55260abd"
+  },
+  "codigo": 1,
+  "nombre": "Clavo",
+  "precio": 1.1
+},
+{
+  "_id": {
+    "$oid": "6537f70d23866b2b55260abe"
+  },
+  "codigo": 2,
+  "nombre": "Tornillo",
+  "precio": 0.2
+},
+{
+  "_id": {
+    "$oid": "6537f70d23866b2b55260ac0"
+  },
+  "codigo": 1,
+  "nombre": "Clavo",
+  "precio": 0.21
+},
+{
+  "_id": {
+    "$oid": "6537f70d23866b2b55260ac1"
+  },
+  "codigo": 2,
+  "nombre": "Tornillo",
+  "precio": 0.12
+}]
