@@ -1,0 +1,39 @@
+[{
+  "_id": {
+    "$oid": "6537cccb23866b2b55260a8e"
+  },
+  "codigo": 1,
+  "nombre": "Dani",
+  "apellidos": "Nuñez Romero",
+  "departamento": {
+    "codigo": 1,
+    "nombre": "Recursos Humanos",
+    "presupuesto": 1400
+  }
+},
+{
+  "_id": {
+    "$oid": "6537cccb23866b2b55260a90"
+  },
+  "codigo": 2,
+  "nombre": "Laura",
+  "apellidos": "Sanchez Nieto",
+  "departamento": {
+    "codigo": 2,
+    "nombre": "Contabilidad",
+    "presupuesto": 1450
+  }
+},
+{
+  "_id": {
+    "$oid": "6537cccb23866b2b55260a92"
+  },
+  "codigo": 3,
+  "nombre": "Antonio",
+  "apellidos": "Lopez Gomez",
+  "departamento": {
+    "codigo": 3,
+    "nombre": "Finanzas",
+    "presupuesto": 1500
+  }
+}]
