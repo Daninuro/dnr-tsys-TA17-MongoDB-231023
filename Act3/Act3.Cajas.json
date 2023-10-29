@@ -1,0 +1,39 @@
+[{
+  "_id": {
+    "$oid": "6537d19c23866b2b55260a94"
+  },
+  "num_referencia": 1,
+  "contenido": "Ipad",
+  "valor": 500,
+  "almacen": {
+    "codigo": 1,
+    "lugar": "Reus",
+    "capacidad": 1000
+  }
+},
+{
+  "_id": {
+    "$oid": "6537d19c23866b2b55260a96"
+  },
+  "num_referencia": 2,
+  "contenido": "Ordenador",
+  "valor": 1000,
+  "almacen": {
+    "codigo": 2,
+    "lugar": "Tarragona",
+    "capacidad": 1500
+  }
+},
+{
+  "_id": {
+    "$oid": "6537d19c23866b2b55260a98"
+  },
+  "num_referencia": 3,
+  "contenido": "Mobil",
+  "valor": 1200,
+  "almacen": {
+    "codigo": 3,
+    "lugar": "Barcelona",
+    "capacidad": 2000
+  }
+}]
